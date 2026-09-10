@@ -261,7 +261,7 @@
     "category": "Prop Trading",
     "memberCount": "30,000+ members",
     "description": "Dedicated to passing prop firm challenges, drawdown calculators, payout proofs, and evaluation guidelines.",
-    "joinUrl": "https://discord.gg/proptrading",
+    "joinUrl": "https://discord.gg/trading",
     "tags": [
       "prop-trading",
       "evaluations",
@@ -273,12 +273,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-17",
-    "title": "Professional Traders Discord Lounge",
+    "title": "Forex Signals & Market Structure Discord",
     "platform": "Discord",
     "category": "Order Flow",
     "memberCount": "75,000+ members",
     "description": "Multi-asset institutional lounge with rooms for order flow, VWAP strategies, and market depth (DOM).",
-    "joinUrl": "https://discord.gg/trading",
+    "joinUrl": "https://discord.gg/forex",
     "tags": [
       "order-flow",
       "vwap",
@@ -290,12 +290,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-18",
-    "title": "Forex Signals & Market Structure Discord",
+    "title": "Equities & Market Structure Guild",
     "platform": "Discord",
     "category": "Forex",
     "memberCount": "50,000+ members",
     "description": "Real-time session opens (London/NY), liquidity sweep analysis, and currency correlation heatmaps.",
-    "joinUrl": "https://discord.gg/forex",
+    "joinUrl": "https://discord.gg/stocks",
     "tags": [
       "forex",
       "london-session",
@@ -307,12 +307,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-19",
-    "title": "Equities & Market Structure Guild",
+    "title": "Global Market Structure & Portfolio Guild",
     "platform": "Discord",
     "category": "Equities",
     "memberCount": "110,000+ members",
     "description": "Live market commentary during market hours, key level alerts, and economic calendar breakdowns.",
-    "joinUrl": "https://discord.gg/stocks",
+    "joinUrl": "https://discord.gg/investing",
     "tags": [
       "equities",
       "economic-calendar",
@@ -324,12 +324,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-20",
-    "title": "Global Market Structure & Portfolio Guild",
+    "title": "Options Strategies & Zero-DTE Guild",
     "platform": "Discord",
     "category": "Macro",
     "memberCount": "150,000+ members",
     "description": "Risk parity allocations, yield curve analysis, central bank policies, and macro market conditions.",
-    "joinUrl": "https://discord.gg/investing",
+    "joinUrl": "https://discord.gg/options",
     "tags": [
       "macro",
       "yield-curve",
@@ -341,12 +341,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-21",
-    "title": "Options Strategies & Zero-DTE Guild",
+    "title": "WallStreetBets Official Discord",
     "platform": "Discord",
     "category": "Options",
     "memberCount": "60,000+ members",
     "description": "0-DTE index execution, iron condors, delta-neutral strategies, and option flow scanners.",
-    "joinUrl": "https://discord.gg/options",
+    "joinUrl": "https://discord.gg/wallstreetbets",
     "tags": [
       "options",
       "0-dte",
@@ -358,12 +358,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-discord-22",
-    "title": "WallStreetBets Official Discord",
-    "platform": "Discord",
+    "title": "Day Trading Live Setups & Signals",
+    "platform": "Telegram",
     "category": "Wsb",
     "memberCount": "250,000+ members",
     "description": "High-frequency discussion on trending tickers, option flow anomalies, and earnings volatility.",
-    "joinUrl": "https://discord.gg/wallstreetbets",
+    "joinUrl": "https://t.me/daytrading",
     "tags": [
       "wsb",
       "trending-tickers",
@@ -375,12 +375,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-23",
-    "title": "Day Trading Live Setups & Signals",
+    "title": "Prop Traders & Challenge Verification",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "42,000+ members",
     "description": "Real-time chart setups, key price levels, risk parameters, and morning watchlist alerts.",
-    "joinUrl": "https://t.me/daytrading",
+    "joinUrl": "https://t.me/proptraders",
     "tags": [
       "telegram",
       "daytrading",
@@ -392,12 +392,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-24",
-    "title": "Prop Traders & Challenge Verification",
+    "title": "Forex Technical Analysis & Key Levels",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "28,000+ members",
     "description": "Daily updates on prop firm rules, discount promo codes, pass rates, and payout verification receipts.",
-    "joinUrl": "https://t.me/proptraders",
+    "joinUrl": "https://t.me/forextrading",
     "tags": [
       "telegram",
       "prop-firms",
@@ -409,12 +409,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-25",
-    "title": "Forex Technical Analysis & Key Levels",
+    "title": "TradingView Official Idea Stream",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "35,000+ members",
     "description": "Daily technical breakdowns of EURUSD, GBPUSD, USDJPY, and XAUUSD gold key support and resistance.",
-    "joinUrl": "https://t.me/forextrading",
+    "joinUrl": "https://t.me/tradingview",
     "tags": [
       "telegram",
       "forex",
@@ -426,12 +426,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-26",
-    "title": "TradingView Official Idea Stream",
+    "title": "Stock Market Movers & Watchlists",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "85,000+ members",
     "description": "Top community published charts, script releases, algorithmic backtests, and indicator updates.",
-    "joinUrl": "https://t.me/tradingview",
+    "joinUrl": "https://t.me/stockmarket",
     "tags": [
       "telegram",
       "tradingview",
@@ -443,12 +443,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-27",
-    "title": "Stock Market Movers & Watchlists",
+    "title": "Global Macro & Alpha Intelligence",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "55,000+ members",
     "description": "Pre-market gappers, earnings calendars, upgrade/downgrade tickers, and volume alerts.",
-    "joinUrl": "https://t.me/stockmarket",
+    "joinUrl": "https://t.me/investing",
     "tags": [
       "telegram",
       "pre-market",
@@ -460,12 +460,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-28",
-    "title": "Global Macro & Alpha Intelligence",
+    "title": "High-Beta Futures & Crypto Setups",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "35,000+ members",
     "description": "Central bank interest rate decisions, CPI prints, macro liquidity, and bond yield movements.",
-    "joinUrl": "https://t.me/investing",
+    "joinUrl": "https://t.me/cryptotrading",
     "tags": [
       "telegram",
       "macro",
@@ -477,12 +477,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-29",
-    "title": "High-Beta Futures & Crypto Setups",
+    "title": "Currency Session Signals & Breakouts",
     "platform": "Telegram",
     "category": "Telegram",
     "memberCount": "60,000+ members",
     "description": "Leverage trading setups, funding rate anomalies, liquidation heatmaps, and breakout alerts.",
-    "joinUrl": "https://t.me/cryptotrading",
+    "joinUrl": "https://t.me/forexsignals",
     "tags": [
       "telegram",
       "crypto",
@@ -494,12 +494,12 @@
   },
   {
     "id": "prop-firm-traders-forex-alpha-hub-telegram-30",
-    "title": "Currency Session Signals & Breakouts",
-    "platform": "Telegram",
+    "title": "r/personalfinance Money Management",
+    "platform": "Reddit",
     "category": "Telegram",
     "memberCount": "45,000+ members",
     "description": "London and New York breakout setups, stop hunts, and high-probability reversal zones.",
-    "joinUrl": "https://t.me/forexsignals",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
     "tags": [
       "telegram",
       "breakouts",
