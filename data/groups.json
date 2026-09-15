@@ -1,17 +1,17 @@
 [
   {
-    "id": "prop-firm-forex-traders-hub-forum-20260915-1",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
+    "id": "prop-firm-forex-traders-hub-reddit-20260915-1",
+    "title": "r/Forex Funded Account Traders",
+    "platform": "Reddit",
+    "category": "Prop Firm Forex",
+    "memberCount": "410,000+ members",
+    "description": "Technical analysis, funded prop firm challenge reviews (FTMO, Funded Engineer), lot sizing risk rules, and trading psychology.",
+    "joinUrl": "https://www.reddit.com/r/Forex/",
     "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
+      "forex",
+      "prop-firm",
+      "trading",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -106,24 +106,6 @@
       "daytrading",
       "funded-accounts",
       "risk-management",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
-  },
-  {
-    "id": "prop-firm-traders-forex-alpha-hub-reddit-2",
-    "title": "Forex & Currency Traders Hub",
-    "platform": "Reddit",
-    "category": "Forex",
-    "memberCount": "550,000+ members",
-    "description": "Largest online forex forum covering currency pairs, spread analysis, prop firm rules, and macroeconomic catalysts.",
-    "joinUrl": "https://www.reddit.com/r/Forex/",
-    "tags": [
-      "forex",
-      "prop-firms",
-      "currencies",
       "reddit"
     ],
     "verified": true,
