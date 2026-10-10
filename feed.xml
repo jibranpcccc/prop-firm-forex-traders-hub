@@ -4,10 +4,17 @@
     <title>Prop Firm Traders &amp; Forex Alpha Hub</title>
     <link>https://prop-firm-forex-traders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:02:57 GMT</lastBuildDate>
     <atom:link href="https://prop-firm-forex-traders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/prop-firm-forex-traders-hub/#prop-firm-forex-traders-hub-forum-20261002-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:02:57 GMT</pubDate>
+      <description>Newly verified community added to Prop Firm Traders &amp; Forex Alpha Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/prop-firm-forex-traders-hub/#prop-firm-forex-traders-hub-forum-20261002-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/prop-firm-forex-traders-hub/#prop-firm-forex-traders-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:20 GMT</pubDate>
       <description>Newly verified community added to Prop Firm Traders &amp; Forex Alpha Hub: Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.</description>
-    </item>
-<item>
-      <title>Prop Firm Traders &amp; Forex Alpha Hub Initial Release</title>
-      <link>https://prop-firm-forex-traders-hub.vercel.app/</link>
-      <pubDate>Thu, 10 Sep 2026 06:48:44 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
